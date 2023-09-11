@@ -21,7 +21,7 @@ JOBS = [
 
     'id' : 3, 
     'title': 'Frontend engineer',
-    'location': 'Remote',
+    'location': 'Amsterdam',
     
   },
  {
